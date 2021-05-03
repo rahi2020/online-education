@@ -1,0 +1,20 @@
+✔ responsive header / navbar with toggle menu bar effect.
+✔ responsive home / hero section.
+✔ responsive about section using flexbox.
+✔ responsive course section using flexbox.
+✔ responsive about section.
+✔ responsive contact section using flexbox.
+✔ responsive footer section section using flexbox.
+
+0:00​ demo
+3:55​ file structure
+5:41​ header / navbar section
+14:00​ login form
+20:20​ home section
+25:14​ about section
+27:09​ course section
+33:20​ teachers section
+34:58​ contact section
+39:28​ scroll spy
+41:19​ footer section
+45:25​ final demo
